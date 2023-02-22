@@ -1,4 +1,4 @@
-import { image } from './img/img'
+import { image } from './shared/assets/img/img'
 
 export interface IMovie {
   title: string

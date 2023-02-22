@@ -46,6 +46,5 @@
     ],
     "@typescript-eslint/ban-ts-comment": "off",
     "@typescript-eslint/no-empty-interface": "warn"
-  }
-}
+  }}
 //Expected "auto", "cr", "crlf" or "lf",
