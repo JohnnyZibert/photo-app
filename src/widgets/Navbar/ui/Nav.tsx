@@ -97,7 +97,9 @@ const Line = styled(motion.div)`
   background: #23d993;
   bottom: -80%;
   left: 60%;
-  @media (max-width: 1100px) {
-    left: 0;
+  @media (max-width: 1200px) {
+    bottom: -20%;
+    left: 60%;
+    position: absolute;
   }
 `
