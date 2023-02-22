@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/photo-app/static/css/main.e6c13ad2.css",
-    "main.js": "/photo-app/static/js/main.a7890c95.js",
+    "main.js": "/photo-app/static/js/main.fd3f89b2.js",
     "static/media/good-times2.jpg": "/photo-app/static/media/good-times2.4ea1be179615d4b3ab59.jpg",
     "static/media/goodtimes-small.png": "/photo-app/static/media/goodtimes-small.94ab060d85c99adbb13f.png",
     "static/media/the-racer2.jpg": "/photo-app/static/media/the-racer2.580f15cd29971622e0d1.jpg",
@@ -16,10 +16,10 @@
     "static/media/diaphragm.svg": "/photo-app/static/media/diaphragm.fb1e5b13ade6e4d1c1c3e0f93229b50d.svg",
     "index.html": "/photo-app/index.html",
     "main.e6c13ad2.css.map": "/photo-app/static/css/main.e6c13ad2.css.map",
-    "main.a7890c95.js.map": "/photo-app/static/js/main.a7890c95.js.map"
+    "main.fd3f89b2.js.map": "/photo-app/static/js/main.fd3f89b2.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.a7890c95.js"
+    "static/js/main.fd3f89b2.js"
   ]
 }
